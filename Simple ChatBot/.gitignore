@@ -1,0 +1,15 @@
+# Environment variables - never commit secrets
+.env
+.env.local
+.env*.local
+
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Rider
+.idea/

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find '/c/Users/ASUS/Desktop/new botlab/BotLab' -type f -name *.cs -o -name *.json -o -name *.config -o -name .env* -o -name appsettings* -o -name Program.cs)",
+      "Bash(find '/c/Users/ASUS/Desktop/new botlab/BotLab' -type f \\\\\\(-name *.cs -o -name *.json -o -name *.config -o -name .env* -o -name appsettings* -o -name *.txt -o -name *.xml \\\\\\) ! -path */obj/* ! -path */bin/* ! -path */.git/* ! -path */node_modules/*)"
+    ]
+  }
+}
