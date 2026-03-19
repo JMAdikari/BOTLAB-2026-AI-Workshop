@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find 'c:\\\\Users\\\\ASUS\\\\Desktop\\\\BOTLAB-2026-AI-Workshop\\\\AI ChatBot with features' -iname .env* -o -iname appsettings* -o -iname config*)"
+    ]
+  }
+}

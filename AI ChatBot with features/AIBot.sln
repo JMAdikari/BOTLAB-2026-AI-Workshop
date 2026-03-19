@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIBotSimple.Console", "AIBotSimple.Console\AIBotSimple.Console.csproj", "{5AC81CAA-29B4-46EB-9333-E07EC2DFDE42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent", "Agent\Agent.csproj", "{E8B2C3D4-1A5F-4E90-BC12-DE3456789012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeratedBot", "ModeratedBot\ModeratedBot.csproj", "{A1B2C3D4-5E6F-7890-ABCD-EF1234567890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC81CAA-29B4-46EB-9333-E07EC2DFDE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC81CAA-29B4-46EB-9333-E07EC2DFDE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC81CAA-29B4-46EB-9333-E07EC2DFDE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC81CAA-29B4-46EB-9333-E07EC2DFDE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B2C3D4-1A5F-4E90-BC12-DE3456789012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B2C3D4-1A5F-4E90-BC12-DE3456789012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B2C3D4-1A5F-4E90-BC12-DE3456789012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B2C3D4-1A5F-4E90-BC12-DE3456789012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B2C3D4-5E6F-7890-ABCD-EF1234567890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-5E6F-7890-ABCD-EF1234567890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-5E6F-7890-ABCD-EF1234567890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-5E6F-7890-ABCD-EF1234567890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
